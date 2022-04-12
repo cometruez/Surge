@@ -2,3 +2,4 @@ DOMAIN,cloud.culturedcode.com
 DOMAIN,in.appcenter.ms
 DOMAIN,m.hotmail.com
 DOMAIN-SUFFIX,cn
+AND,((DEST-PORT,22), (DOMAIN,github.com)),DIRECT
