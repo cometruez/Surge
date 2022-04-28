@@ -2,6 +2,6 @@ DOMAIN,cloud.culturedcode.com
 DOMAIN,in.appcenter.ms
 DOMAIN,m.hotmail.com
 DOMAIN-SUFFIX,cn
-DOMAIN,turn.jumpdesktop.com,DIRECT
-DOMAIN,global.stun.twilio.com,DIRECT
-DOMAIN,stun.l.google.com,DIRECT
+DOMAIN,global.stun.twilio.com
+DOMAIN,stun.l.google.com
+DOMAIN-SUFFIX,jumpdesktop.com
