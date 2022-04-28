@@ -4,3 +4,4 @@ DOMAIN,m.hotmail.com
 DOMAIN-SUFFIX,cn
 DOMAIN,global.stun.twilio.com
 DOMAIN-SUFFIX,jumpdesktop.com
+PROCESS-NAME,aria2c
