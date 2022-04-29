@@ -43,3 +43,7 @@ DOMAIN-SUFFIX,cloudfront.net
 DOMAIN-SUFFIX,wordpress.com
 DOMAIN,sixcolors.com
 DOMAIN,thetype.com
+DOMAIN-SUFFIX,condenastdigital.com
+DOMAIN,api.condenast.io
+DOMAIN-SUFFIX,cnevids.com
+DOMAIN-SUFFIX,newyorker.com
