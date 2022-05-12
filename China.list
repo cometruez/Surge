@@ -7,3 +7,4 @@ DOMAIN-SUFFIX,jumpdesktop.com
 DOMAIN,stun.l.google.com
 DOMAIN,login.microsoftonline.com
 PROCESS-NAME,aria2c
+AND,((DEST-PORT,22), (DOMAIN,github.com))
